@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 #::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2 OnTEST new change#::::::::::::::::::::::::::::::::::::#
 =======
-#::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2  ON TEST ::::::::::::::::::::::::::::::::::::#
+#::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2  ON TEST hohooh::::::::::::::::::::::::::::::::::::#
 >>>>>>> a7e74d867cb4f7b21b74c06909bb9633229ecafc
 #!/usr/bin/env python3
 import math 
