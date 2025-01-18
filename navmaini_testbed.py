@@ -1,4 +1,4 @@
-#::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2 ::::::::::::::::::::::::::::::::::::#
+#::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2  ON TEST ::::::::::::::::::::::::::::::::::::#
 #!/usr/bin/env python3
 import math 
 import numpy as np   
