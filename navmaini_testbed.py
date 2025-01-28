@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 #::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2 OnTEST #::::::::::::::::::::::::::::::::::::#
-=======
+#=======
 #::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2  ON TEST ::::::::::::::::::::::::::::::::::::#
 >>>>>>> a7e74d867cb4f7b21b74c06909bb9633229ecafc
 #!/usr/bin/env python3
@@ -155,7 +155,7 @@ def find_nearest_waypoint_index(waypoints):
 
 
 
-waypoints = extract_waypoints_from_file("/home/tihan/testbed_demo/waypoints_unf_dis.txt")
+waypoints = extract_waypoints_from_file("/home/tihan/for_ota_testbed_demo/testbed_3Jan25.txt")
 
 wp = find_nearest_waypoint_index(waypoints)
 
