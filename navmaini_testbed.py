@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-#::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2 OnTEST #::::::::::::::::::::::::::::::::::::#
-#=======
-#::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2  ON TEST ::::::::::::::::::::::::::::::::::::#
->>>>>>> a7e74d867cb4f7b21b74c06909bb9633229ecafc
+# <<<<<<< HEAD
+# #::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2 OnTEST #::::::::::::::::::::::::::::::::::::#
+# #=======
+# #::::::::::::::::::::::::::::::::::::  LIDAR NAVIGATION CODE FOR MAINI 2  ON TEST ::::::::::::::::::::::::::::::::::::#
+# >>>>>>> a7e74d867cb4f7b21b74c06909bb9633229ecafc
 #!/usr/bin/env python3
 import math 
 import numpy as np   
